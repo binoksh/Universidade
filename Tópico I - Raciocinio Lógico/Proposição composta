@@ -1,0 +1,28 @@
+Proposição Composta:
+É quando temos mais de uma declaração em uma mesma sentença. 
+Essas declarações podem ser simples ou compostas, e são ligadas por conectivos como "e" ou "ou".
+
+ 	/Conectivos "E" e "OU":
+Quando usamos o conectivo "e", estamos dizendo que ambas as partes da proposição precisam ser verdadeiras
+para que toda a sentença seja verdadeira. É como se fosse um "e também".
+
+Já o conectivo "ou" é um pouco diferente. 
+Se aparece apenas uma vez, significa que pelo menos uma das declarações precisa ser verdadeira 
+para que a proposição como um todo seja verdadeira. É como se fosse uma escolha entre as opções.
+
+  /Sentido de Inclusão e Exclusão:
+Se o conectivo "ou" aparece várias vezes em uma sentença, isso indica inclusão. 
+Ou seja, basta que uma ou mais declarações sejam verdadeiras para que toda a proposição seja verdadeira.
+Por outro lado, se a sentença tem apenas uma instância do "ou", isso indica exclusão. 
+Isso significa que apenas uma das opções pode ser verdadeira para que a proposição seja verdadeira como um todo.
+
+  /Universos Separados:
+Quando usamos o "ou" para ligar declarações, não importa se as opções fazem parte do mesmo universo ou não. 
+O que importa é que pelo menos uma delas seja verdadeira.
+
+  /Valor Lógico da Sentença:
+O objetivo é determinar se a proposição como um todo é verdadeira ou falsa, 
+com base na verdade das declarações individuais e nos conectivos utilizados.
+
+Em resumo, o "e" requer que todas as partes sejam verdadeiras, enquanto o "ou" permite que apenas uma das partes seja verdadeira para que a sentença seja considerada verdadeira.
+Esses pontos ajudam a entender como os conectivos "e" e "ou" afetam o valor lógico das proposições compostas, e como podemos interpretar essas sentenças em diferentes contextos.

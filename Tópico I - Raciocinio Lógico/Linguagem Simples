@@ -1,0 +1,23 @@
+  /Proposição e Juízo:
+Uma proposição é basicamente uma frase que pode ser considerada verdadeira ou falsa. É como uma afirmação sobre algo.
+Podemos pensar nisso como expressar uma opinião ou fazer uma declaração sobre o mundo ao nosso redor.
+
+  /Expressões Declarativas e Propositivas:
+Expressões declarativas são aquelas que afirmam algo sobre o mundo. Elas são as que podem ser avaliadas como verdadeiras ou falsas.
+Já as expressões propositivas são mais amplas e podem incluir perguntas, comandos ou expressões emotivas,
+que não se encaixam na definição de proposição.
+
+  /Princípios Básicos da Lógica Aristotélica:
+O Princípio da Identidade afirma que algo é o que é, ou seja, algo é igual a si mesmo.
+O Princípio da Não Contradição diz que algo não pode ser verdadeiro e falso ao mesmo tempo, ou seja, não pode haver contradição.
+O Princípio do Terceiro Excluído estabelece que uma proposição só pode ser verdadeira ou falsa, não há terceira opção.
+
+  /Proposições Simples:
+São aquelas que têm apenas uma declaração, como "Vinicius gosta de cachorros".
+Podemos representar isso visualmente usando a teoria dos conjuntos, onde Vinicius estaria ou no 
+conjunto das pessoas que gostam de cachorros (A) ou no conjunto das pessoas que não gostam (Ac), mas não nos dois ao mesmo tempo.
+
+  /Complexidade das Proposições:
+Proposições como "Eu gosto de praia e rio" são mais complexas porque envolvem mais de uma afirmação. 
+Isso cria conjuntos diferentes para pessoas que gostam de praia, pessoas que gostam de rio e até mesmo para aquelas 
+que não gostam de nenhum dos dois.
